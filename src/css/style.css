@@ -53,7 +53,7 @@ body {
 
 .buttonList button.active {
     box-shadow: 4px 5px 12px -4px rgba(0, 0, 0, 0.64);
-    background-color: wheat;
+    background-color: #FFE32C;
     cursor: pointer;
 }
 
